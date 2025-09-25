@@ -17,7 +17,7 @@ int halfadd(int A, int B){
     return(Sum, Carry);
 }
 
-int fulladd(A,B,C){
+int fulladd(int A, int B, int C){
     int Sum;
     int Carry;
     if((A != B) != C){
